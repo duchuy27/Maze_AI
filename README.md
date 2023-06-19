@@ -8,3 +8,7 @@ Cho AI nhận biết được cách thoát khỏi mê cung
 ** Bước 2** Chạy file
 
 `> python maze.py maze1.txt`
+
+`> python maze.py maze2.txt`
+
+`> python maze.py maze3.txt`
